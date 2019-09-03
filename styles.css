@@ -1,0 +1,19 @@
+.jumbotron {
+    width: 33%;
+    margin: auto;
+    background: #00F260;
+    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  
+    background: linear-gradient(to right, #0575E6, #00F260); 
+    color: white;
+}
+
+.button {
+    color: white;
+    border-radius: 30px;
+    background: rgb(9, 170, 116);
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.164);
+}
+
+.btn:hover {
+    color: white;
+}
